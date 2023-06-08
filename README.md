@@ -19,12 +19,12 @@ Integrating the frontend with the smart contract using ethers.js library
 Writing ethers.js scripts to interact with the smart contract functions by just running these scripts via terminal
 Although, the options 2 & 3 are optional. You can skip it if you don’t want to work on frontend. But we’d advise you to do it as it uses very basic html and you don’t need any advanced knowledge of frameworks like React, Angular etc. Nor would you need any CSS knowledge for styling the pages. The aim is to learn how a frontend page interacts with smart contracts using ethers.js library.
 
-Let’s start with the smart contract. 
-We’ll use Remix to write and deploy our smart contract. 
-We’ll need the following functions in our smart contract for the entire functionality :
-             1- A receive() function to fund the wallet contract
-             2- A function to renew the allowance of a user by the admin
-             3- A function to enable spending of coins by the user
-             4- A function to check his/her allowance by a user
-             5- A function to check the current total balance of the wallet
+# Let’s start with the smart contract. 
+1- We’ll use Remix to write and deploy our smart contract. 
+2- We’ll need the following functions in our smart contract for the entire functionality :
+             A- A receive() function to fund the wallet contract
+             B- A function to renew the allowance of a user by the admin
+             C- A function to enable spending of coins by the user
+             D- A function to check his/her allowance by a user
+             E- A function to check the current total balance of the wallet
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
