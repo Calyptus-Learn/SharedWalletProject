@@ -22,9 +22,9 @@ Although, the options 2 & 3 are optional. You can skip it if you don’t want to
 # Let’s start with the smart contract. 
 # We’ll use Remix to write and deploy our smart contract.
 We’ll need the following functions in our smart contract for the entire functionality :
-  A- A receive() function to fund the wallet contract
-  B- A function to renew the allowance of a user by the admin
-  C- A function to enable spending of coins by the user
-  D- A function to check his/her allowance by a user
-  E- A function to check the current total balance of the wallet
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+1- A receive() function to fund the wallet contract.
+2- A function to renew the allowance of a user by the admin.
+3- A function to enable spending of coins by the user.
+4- A function to check his/her allowance by a user.
+5- A function to check the current total balance of the wallet.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
